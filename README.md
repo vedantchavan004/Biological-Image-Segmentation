@@ -61,5 +61,3 @@ This project implements a U-Net architecture to perform semantic segmentation of
 
 ---
 
-## 📁 Project Structure
-
