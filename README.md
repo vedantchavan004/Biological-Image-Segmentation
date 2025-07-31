@@ -37,8 +37,8 @@ This project implements a U-Net architecture to perform semantic segmentation of
 
 ## 📊 Visualization
 
-| ![input](1.png)|
-| ![input](2.png)|
+![input](1.png)
+![input](2.png)
 
 
 ---
