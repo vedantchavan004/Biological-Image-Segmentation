@@ -37,9 +37,8 @@ This project implements a U-Net architecture to perform semantic segmentation of
 
 ## 📊 Visualization
 
-| Input Image | Ground Truth | Predicted Mask |
-|-------------|--------------|----------------|
 | ![input](1.png)|
+| ![input](2.png)|
 
 
 ---
